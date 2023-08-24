@@ -19,5 +19,19 @@ The `<body>` element contains all the contents of an HTML document, such as head
 `<p>`: Description of the cafe with a strong emphasis.
 
 ![part 4](https://github.com/UgamRaj/Assignment1/assets/124122714/dd3ad723-943a-42a7-bff1-5b2cf404d78a)
-- [Rate Us](#)\
+- [Rate Us](#)
 - [Follow us](#)
+
+### Menu
+![part 5](https://github.com/UgamRaj/Assignment1/assets/124122714/597074f0-b60a-47ec-b86d-478c721fda14)
+The `<div>` tag defines a division or a section in an HTML document.
+`<h1>` :  Menu
+#### South Indian
+`<h4>` : South indian\
+- `<ol>`: Ordered list
+  - `<li>`: Dosa
+  - `<li>`: Idli
+  - `<li>`: Utpam
+`<hr>` : This element is most often displayed as a horizontal rule that is used to separate content (or define a change) in an HTML page.
+
+
