@@ -24,10 +24,11 @@ The `<body>` element contains all the contents of an HTML document, such as head
 
 ### Menu
 ![part 5](https://github.com/UgamRaj/Assignment1/assets/124122714/597074f0-b60a-47ec-b86d-478c721fda14)
-The `<div>` tag defines a division or a section in an HTML document.
+The `<div>` tag defines a division or a section in an HTML document.<br/>
 `<h1>` :  Menu
+
 #### South Indian
-`<h4>` : South indian\
+`<h4>` : South indian
 - `<ol>`: Ordered list
   - `<li>`: Dosa
   - `<li>`: Idli
