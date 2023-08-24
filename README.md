@@ -65,5 +65,11 @@ The `<div>` : tag defines a division or a section in an HTML document.<br/>
 ![part 8](https://github.com/UgamRaj/Assignment1/assets/124122714/ab535e5c-01f9-4d55-8f47-be608e7b35a0)
 
 #### Contact
-`<h1>` :  Contact
+`<h1>` :  Contact\
 `<p>`: Description of the contact with a strong emphasis.
+
+![part 9](https://github.com/UgamRaj/Assignment1/assets/124122714/622a8a7b-339c-4d70-b1bf-c1d48fef7dac)
+
+`<p>`: Description of the contact with a strong emphasis.
+
+
