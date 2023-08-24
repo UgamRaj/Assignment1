@@ -13,11 +13,11 @@ The  `<head>` element is a container for metadata (data about data) and is place
 The `<body>` element contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.\
 `<h1>` : for gallery cafe.\
 `<hr>` : This element is most often displayed as a horizontal rule that is used to separate content (or define a change) in an HTML page.\
-`<h4>` : About us.\
+`<h4>` : About us.
 
 ![part 3](https://github.com/UgamRaj/Assignment1/assets/124122714/b61e99d2-c0b8-4dab-84a9-f201b9e5987d)
+`<p>`: Description of the cafe with a strong emphasis.
 
-`<p>`: Description of the cafe with a strong emphasis.\
 ![part 4](https://github.com/UgamRaj/Assignment1/assets/124122714/dd3ad723-943a-42a7-bff1-5b2cf404d78a)
 - [Rate Us](#)\
 - [Follow us](#)
