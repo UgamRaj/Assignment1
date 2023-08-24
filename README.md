@@ -5,8 +5,8 @@
 ![boiler plate](https://github.com/UgamRaj/Assignment1/assets/124122714/51ee0cad-d719-4142-ae9c-89be2b72ddf1)
 <!DOCTYPE html>
 Browsers to determine whether to render the webpage in standards mode (which is according to CSS specifications) or quirks mode (which is more backwars compatible with old practices and old browsers)
-The <html> element represents the root of an HTML document.\
-`[<html lang="en">]` The lang attribute is added to specify the document’s language for all the text on the page.\
+The `<html>` element represents the root of an HTML document.\
+`[<html lang="en">]` : The lang attribute is added to specify the document’s language for all the text on the page.\
 The  `<head>` element is a container for metadata (data about data) and is placed between the `<html>` tag and the `<body>` tag.\
 
 ![part 2](https://github.com/UgamRaj/Assignment1/assets/124122714/074324fe-9384-45e9-8872-1bdca75f60dc)  
@@ -15,4 +15,7 @@ The `<body>` element contains all the contents of an HTML document, such as head
 `<hr>` : This element is most often displayed as a horizontal rule that is used to separate content (or define a change) in an HTML page.\
 `<h4>` : About us.\
 ![part 2](https://github.com/UgamRaj/Assignment1/assets/124122714/69a5cd8e-6174-446a-b9fc-2a311159e42b)
-
+`<p>`: Description of the cafe with a strong emphasis.\
+![part 4](https://github.com/UgamRaj/Assignment1/assets/124122714/dd3ad723-943a-42a7-bff1-5b2cf404d78a)
+- [Rate Us](#)\
+- [Follow us](#)
