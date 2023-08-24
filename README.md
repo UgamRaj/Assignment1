@@ -49,4 +49,21 @@ The `<div>` : tag defines a division or a section in an HTML document.<br/>
   - `<li>`: Chole Kulche
   - `<li>`: Aloo paratha
 
+`<hr>` : This element is most often displayed as a horizontal rule that is used to separate content (or define a change) in an HTML page.
 
+![part 7](https://github.com/UgamRaj/Assignment1/assets/124122714/5f7b36a3-cd4a-437a-b8e4-88d5c76c5140)
+
+#### Extras
+- `<h4>`: Extras
+- `<ol>`: Ordered list
+  - `<li>`: Pizza
+  - `<li>`: Nachos
+  - `<li>`: Lasagne
+
+`<hr>` : This element is most often displayed as a horizontal rule that is used to separate content (or define a change) in an HTML page.
+
+![part 8](https://github.com/UgamRaj/Assignment1/assets/124122714/ab535e5c-01f9-4d55-8f47-be608e7b35a0)
+
+#### Contact
+`<h1>` :  Contact
+`<p>`: Description of the contact with a strong emphasis.
